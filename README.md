@@ -9,5 +9,7 @@ Un bot en español de Economía y moderación para tu servidor de discordia!
 
 # Colaboradores del bot 🤝
 - **Rennye >.<#9524** (Desarrollador Designer y colaborador)
-- **Jacoc#9306** (Propietario del Bot)
+- **Jacoc#9306** (Propietario del Bot) 
+
+- (Yo : Desarrollador Principal y co propietario)
 
