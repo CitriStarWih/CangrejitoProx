@@ -31,7 +31,7 @@ module.exports = {
     
     return message.channel.send(Embed);
 
-    async function Activities(Arr) {
+    async function Activities(Arr); {
       const Types = {
         PLAYING: "Playing",
         STREAMING: "Streaming",
