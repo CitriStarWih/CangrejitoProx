@@ -1,1 +1,0 @@
-const { default_prefix } = require('../config');
