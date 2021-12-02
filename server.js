@@ -1,4 +1,4 @@
-
+const discord = require('discord.js');
 //// Bot Ready and Custom Status /////
 client.on("ready", () => {
     client.user.setActivity("c.help | v1.7.0", {
